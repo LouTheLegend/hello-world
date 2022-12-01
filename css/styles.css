@@ -1,0 +1,45 @@
+head {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+#title-hello-world {
+  font-weight: 700;
+  font-size: 40px;
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  font-family: 'Press Start 2P', cursive;
+  text-shadow: 0 0 1px #000000,
+                0 0 2px #000000,
+                0 0 3px #000000,
+                0 0 4px #000000,
+                0 0 5px #fff,
+                0 0 7px #fff,
+                0 0 8px #fff,
+                0 0 10px #0fa,
+                0 0 13px #ff33cc,
+                0 0 17px #ff33cc,
+                0 0 23px #ff33cc;
+
+}
+
+body {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+
+  background-color: fuchsia;
+  color: white;
+}
+
+#number-picker {
+  align-items: center;
+  display: block;
+  margin: 20px;
+}
+
+#hello {
+  font-weight: 600
+}
